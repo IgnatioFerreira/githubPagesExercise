@@ -8,4 +8,3 @@ Just to test gitPages
 
 Check out the project: https://ignatioferreira.github.io/SlicedCheese/index.html
 
-Want to find out how I can remove the index.html part...
