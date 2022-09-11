@@ -6,5 +6,5 @@ Project by Coding Train: https://github.com/CodingTrain/website/tree/main/Coding
 Just to test gitPages
 
 
-Check out the project: https://ignatioferreira.github.io/SlicedCheese/index.html
+Check out the project: https://ignatioferreira.github.io/githubPagesExercise/
 
